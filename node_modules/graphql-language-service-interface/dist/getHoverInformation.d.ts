@@ -1,0 +1,6 @@
+import { GraphQLSchema } from 'graphql';
+import { ContextToken } from 'graphql-language-service-parser';
+import { Position } from 'graphql-language-service-types';
+import { Hover } from 'vscode-languageserver-types';
+export declare function getHoverInformation(schema: GraphQLSchema, queryText: string, cursor: Position, contextToken?: ContextToken): Hover['contents'];
+//# sourceMappingURL=getHoverInformation.d.ts.map

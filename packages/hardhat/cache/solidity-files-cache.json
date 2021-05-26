@@ -1,0 +1,107 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/dylan/scaffold-eth/packages/hardhat/contracts/YourContract.sol": {
+      "lastModificationDate": 1621705034529,
+      "contentHash": "7df95dad71bd31bfe9133514601c736a",
+      "sourceName": "contracts/YourContract.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.6.0 <0.9.0"
+      ],
+      "artifacts": [
+        "YourContract"
+      ]
+    },
+    "/home/dylan/scaffold-eth/packages/hardhat/node_modules/hardhat/console.sol": {
+      "lastModificationDate": 1620587701509,
+      "contentHash": "cc4777addd464ea56fa35b1c45df0591",
+      "sourceName": "hardhat/console.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.4.22 <0.9.0"
+      ],
+      "artifacts": [
+        "console"
+      ]
+    },
+    "/home/dylan/Desktop/JuryDapp/packages/hardhat/contracts/YourContract.sol": {
+      "lastModificationDate": 1621948171600,
+      "contentHash": "7fb5ed9d69a84ddb4e52eea1d585f521",
+      "sourceName": "contracts/YourContract.sol",
+      "solcConfig": {
+        "version": "0.7.6",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.6.0 <0.9.0"
+      ],
+      "artifacts": [
+        "YourContract"
+      ]
+    }
+  }
+}
