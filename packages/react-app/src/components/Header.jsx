@@ -5,7 +5,7 @@ import { PageHeader } from "antd";
 
 export default function Header() {
   return (
-    <a href="https://github.com/WysockiD/Jury-On-Chain/tree/main" target="_blank" rel="noopener noreferrer">
+    <a href="https://github.com/WysockiD/On-Chain-Jury" target="_blank" rel="noopener noreferrer">
       <PageHeader
         title="🧑‍⚖️ 🏛️ On-Chain-Jury"
         subTitle="Law and Order - Chained to Technology"
