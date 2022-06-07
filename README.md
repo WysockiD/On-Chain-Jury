@@ -8,3 +8,4 @@ The main point I want to stress here is not the building of the application, I b
 
 Built by using scafold-eth to help integrate the react.JS front end and Web3 to connect the solidity smart contracts to the back end. A few months of work and I have a new respect for how much work goes into building full stack apps. I have
 many more ways I can expand on the app like write an algorithm for the actual jury selection process or have a trigger event occur once the verdict is logged on the chain giving it real world consequences, but for now, I’m exited to move on to my next project. 💆‍♂️
+
